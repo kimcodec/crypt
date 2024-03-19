@@ -1,0 +1,8 @@
+{
+    "cridentials": [
+        {"site": "site1", "login": "8d2f76ddc248ef4787f61bf2ac10ed44", "password": "4374e76c8a0a1c06b7a8c407a4c214f7"},
+        {"site": "site2", "login": "b4ddd7a0c30aa960ca18bc371dc687a8", "password": "3d0a69dbaa4ebda6034fb964f5d08e1a"},
+        {"site": "site3", "login": "58302c8fb79dc7ac8e74752091344fd2", "password": "5c3f7edea104cbae66ab56a32b186ce8"},
+        {"site": "site4", "login": "7fa8cec9f582b1d12866ef54c6f195b8", "password": "08587663445439d1109926074df4cede"}
+    ]
+}

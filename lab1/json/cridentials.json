@@ -1,0 +1,8 @@
+{
+    "cridentials": [
+        {"site": "site1", "login": "site1login", "password": "site1password"},
+        {"site": "site2", "login": "site2login", "password": "site2password"},
+        {"site": "site3", "login": "site3login", "password": "site3password"},
+        {"site": "site4", "login": "site4login", "password": "site4password"}
+    ]
+}
